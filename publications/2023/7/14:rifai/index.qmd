@@ -1,0 +1,15 @@
+---
+title: 'Distinct neuroinflammatory signatures exist across genetic and sporadic amyotrophic lateral sclerosis cohorts'
+---
+
+_[Published](https://academic.oup.com/brain/article/146/12/5124/7224417) in Brain (2023)_
+
+Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive loss of upper and lower motor neurons. ALS is on a pathogenetic disease spectrum with frontotemporal dementia, referred to as ALS-frontotemporal spectrum disorder (ALS-FTSD). For mutations associated with ALS-FTSD, such as the _C9orf72_ hexanucleotide repeat expansion, the molecular factors associated with heterogeneity along this spectrum require further characterization.
+
+Here, using a targeted NanoString molecular barcoding approach, we interrogate neuroinflammatory dysregulation and heterogeneity at the level of gene expression in post-mortem motor cortex tissue from a cohort of clinically heterogeneous C9-ALS-FTSD cases.
+
+We identified 20 dysregulated genes in C9-ALS-FTSD, with enrichment of microglial and inflammatory response gene sets. Two genes with significant correlations to available clinical metrics were selected for validation: _FKBP5_, a correlate of cognitive function, and brain-derived neurotrophic factor (_BDNF_), a correlate of disease duration. FKBP5 and its signalling partner, NF-κB, appeared to have a cell type-specific staining distribution, with activated (i.e. nuclear) NF-κB immunoreactivity in C9-ALS-FTSD. Expression of BDNF, a correlate of disease duration, was confirmed to be higher in individuals with long compared to short disease duration using BaseScope™ _in situ_ hybridization. Our analyses also revealed two distinct neuroinflammatory panel signatures (NPS), NPS1 and NPS2, delineated by the direction of expression of proinflammatory, axonal transport and synaptic signalling pathways. We compared NPS between C9-ALS-FTSD cases and those from sporadic ALS and SOD1-ALS cohorts and identified NPS1 and NPS2 across all cohorts. Moreover, a subset of NPS was also able to separate publicly available RNA sequencing data from independent C9-ALS and sporadic ALS cohorts into two inflammatory subgroups.
+
+Importantly, NPS subgroups did not clearly segregate with available demographic, genetic, clinical or pathological features, highlighting the value of molecular stratification in clinical trials for inflammatory subgroup identification. Our findings thus underscore the importance of tailoring therapeutic approaches based on distinct molecular signatures that exist between and within ALS-FTSD cohorts.
+
+_Recommended citation: Olivia M Rifai, Judi O’Shaughnessy, Owen R Dando, Alison F Munro, Michael D E Sewell, Sharon Abrahams, Fergal M Waldron, Christopher R Sibley, Jenna M Gregory, Distinct neuroinflammatory signatures exist across genetic and sporadic amyotrophic lateral sclerosis cohorts, Brain, Volume 146, Issue 12, December 2023, Pages 5124–5138, https://doi.org/10.1093/brain/awad243_

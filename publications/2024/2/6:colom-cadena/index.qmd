@@ -1,0 +1,13 @@
+---
+title: 'Transmembrane protein 97 is a potential synaptic amyloid beta receptor in human Alzheimer’s disease'
+---
+
+_[Published](https://link.springer.com/article/10.1007/s00401-023-02679-6) in Acta Neuropathalogica_
+
+Synapse loss correlates with cognitive decline in Alzheimer’s disease, and soluble oligomeric amyloid beta (Aβ) is implicated in synaptic dysfunction and loss. An important knowledge gap is the lack of understanding of how Aβ leads to synapse degeneration. In particular, there has been difficulty in determining whether there is a synaptic receptor that binds Aβ and mediates toxicity. While many candidates have been observed in model systems, their relevance to human AD brain remains unknown. This is in part due to methodological limitations preventing visualization of Aβ binding at individual synapses. 
+
+To overcome this limitation, we combined two high resolution microscopy techniques: array tomography and Förster resonance energy transfer (FRET) to image over 1 million individual synaptic terminals in temporal cortex from AD (n = 11) and control cases (n = 9). Within presynapses and post-synaptic densities, oligomeric Aβ generates a FRET signal with transmembrane protein 97. Further, Aβ generates a FRET signal with cellular prion protein, and post-synaptic density 95 within post synapses. Transmembrane protein 97 is also present in a higher proportion of post synapses in Alzheimer’s brain compared to controls. We inhibited Aβ/transmembrane protein 97 interaction in a mouse model of amyloidopathy by treating with the allosteric modulator CT1812. CT1812 drug concentration correlated negatively with synaptic FRET signal between transmembrane protein 97 and Aβ. 
+
+In human-induced pluripotent stem cell derived neurons, transmembrane protein 97 is present in synapses and colocalizes with Aβ when neurons are challenged with human Alzheimer’s brain homogenate. Transcriptional changes are induced by Aβ including changes in genes involved in neurodegeneration and neuroinflammation. CT1812 treatment of these neurons caused changes in gene sets involved in synaptic function. These data support a role for transmembrane protein 97 in the synaptic binding of Aβ in human Alzheimer’s disease brain where it may mediate synaptotoxicity.
+
+_Recommended citation: Colom-Cadena, M., Toombs, J., Simzer, E. et al. Transmembrane protein 97 is a potential synaptic amyloid beta receptor in human Alzheimer’s disease. Acta Neuropathol 147, 32 (2024). https://doi.org/10.1007/s00401-023-02679-6_

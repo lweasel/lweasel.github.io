@@ -1,0 +1,15 @@
+---
+title: 'Laboratory Automated Interrogation of Data: an interactive web application for visualization of multilevel data from biological experiments'
+---
+
+_[Published](https://academic.oup.com/braincomms/article/6/2/fcae074/7616116) in Brain Communications_
+
+A key step in understanding the results of biological experiments is visualization of the data. Many laboratory experiments contain a range of measurements that exist within a hierarchy of interdependence. An automated and facile way to visualize and interrogate such multilevel data, across many experimental variables, would: 
+
+1. lead to improved understanding of the results, 
+2. help to avoid misleading interpretation of statistics, and 
+3. easily identify outliers and sources of batch and confounding effects. 
+
+While many excellent graphing solutions already exist, they are often geared towards the production of publication-ready plots and the analysis of a single variable at a time, require programming expertise or are unnecessarily complex for the task at hand. Here, we present Laboratory Automated Interrogation of Data (LAB-AID), an interactive tool specifically designed to automatically visualize and query hierarchical data resulting from biological experiments.
+
+_Recommended citation: Owen R Dando, Zrinko Kozic, Sam A Booker, Giles E Hardingham, Peter C Kind, Laboratory Automated Interrogation of Data: an interactive web application for visualization of multilevel data from biological experiments, Brain Communications, Volume 6, Issue 2, 2024, fcae074, https://doi.org/10.1093/braincomms/fcae074_

@@ -1,0 +1,15 @@
+---
+title: 'Inhibiting CSF1R alleviates cerebrovascular white matter disease and cognitive impairment'
+---
+
+_[Published](https://onlinelibrary.wiley.com/doi/full/10.1002/glia.24481) in Glia (2023)_
+
+White matter abnormalities, related to poor cerebral perfusion, are a core feature of small vessel cerebrovascular disease, and critical determinants of vascular cognitive impairment and dementia. Despite this importance there is a lack of treatment options. 
+
+Proliferation of microglia producing an expanded, reactive population and associated neuroinflammatory alterations have been implicated in the onset and progression of cerebrovascular white matter disease, in patients and in animal models, suggesting that targeting microglial proliferation may exert protection. Colony-stimulating factor-1 receptor (CSF1R) is a key regulator of microglial proliferation. We found that the expression of CSF1R/Csf1r and other markers indicative of increased microglial abundance are significantly elevated in damaged white matter in human cerebrovascular disease and in a clinically relevant mouse model of chronic cerebral hypoperfusion and vascular cognitive impairment. 
+
+Using the mouse model, we investigated long-term pharmacological CSF1R inhibition, via GW2580, and demonstrated that the expansion of microglial numbers in chronic hypoperfused white matter is prevented. Transcriptomic analysis of hypoperfused white matter tissue showed enrichment of microglial and inflammatory gene sets, including phagocytic genes that were the predominant expression modules modified by CSF1R inhibition. Further, CSF1R inhibition attenuated hypoperfusion-induced white matter pathology and rescued spatial learning impairments and to a lesser extent cognitive flexibility. 
+
+Overall, this work suggests that inhibition of CSF1R and microglial proliferation mediates protection against chronic cerebrovascular white matter pathology and cognitive deficits. Our study nominates CSF1R as a target for the treatment of vascular cognitive disorders with broader implications for treatment of other chronic white matter diseases.
+
+_Recommended citation: Askew, K. E., Beverley, J., Sigfridsson, E., Szymkowiak, S., Emelianova, K., Dando, O., Hardingham, G. E., Duncombe, J., Hennessy, E., Koudelka, J., Samarasekera, N., Salman, R. A.-S., Smith, C., Tavares, A. A. S., Gomez-Nicola, D., Kalaria, R. N., McColl, B. W., & Horsburgh, K. (2024). Inhibiting CSF1R alleviates cerebrovascular white matter disease and cognitive impairment. Glia, 72(2), 375–395. https://doi.org/10.1002/glia.24481_

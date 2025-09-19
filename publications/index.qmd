@@ -1,0 +1,22 @@
+---
+title: "Publications"
+listing:
+  - id: publications_2024
+    contents: "2024/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2023
+    contents: "2023/**/index.qmd"
+    sort: "date desc"
+---
+
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=_gZHMm8AAAAJ&hl=en).
+
+## 2024
+
+:::{#publications_2024}
+:::
+
+## 2023
+
+:::{#publications_2023}
+:::

@@ -1,0 +1,15 @@
+---
+title: 'Enhanced hippocampal LTP but normal NMDA receptor and AMPA receptor function in a rat model of CDKL5 deficiency disorder'
+---
+
+_[Published](https://link.springer.com/article/10.1186/s13229-024-00601-9) in Molecular Autism_
+
+Mutations in the X-linked gene cyclin-dependent kinase-like 5 (CDKL5) cause a severe neurological disorder characterised by early-onset epileptic seizures, autism and intellectual disability (ID). Impaired hippocampal function has been implicated in other models of monogenic forms of autism spectrum disorders and ID and is often linked to epilepsy and behavioural abnormalities. Many individuals with CDKL5 deficiency disorder (CDD) have null mutations and complete loss of CDKL5 protein, therefore in the current study we used a Cdkl5−/y rat model to elucidate the impact of CDKL5 loss on cellular excitability and synaptic function of CA1 pyramidal cells (PCs). We hypothesised abnormal pre and/or post synaptic function and plasticity would be observed in the hippocampus of Cdkl5−/y rats.
+
+To allow cross-species comparisons of phenotypes associated with the loss of CDKL5, we generated a loss of function mutation in exon 8 of the rat Cdkl5 gene and assessed the impact of the loss of CDLK5 using a combination of extracellular and whole-cell electrophysiological recordings, biochemistry, and histology.
+
+Our results indicate that CA1 hippocampal long-term potentiation (LTP) is enhanced in slices prepared from juvenile, but not adult, Cdkl5−/y rats. Enhanced LTP does not result from changes in NMDA receptor function or subunit expression as these remain unaltered throughout development. Furthermore, Ca2+ permeable AMPA receptor mediated currents are unchanged in Cdkl5−/y rats. We observe reduced mEPSC frequency accompanied by increased spine density in basal dendrites of CA1 PCs, however we find no evidence supporting an increase in silent synapses when assessed using a minimal stimulation protocol in slices. Additionally, we found no change in paired-pulse ratio, consistent with normal release probability at Schaffer collateral to CA1 PC synapses.
+
+Our data indicate a role for CDKL5 in hippocampal synaptic function and raise the possibility that altered intracellular signalling rather than synaptic deficits contribute to the altered plasticity.
+
+_Recommended citation: Simões de Oliveira, L., O’Leary, H.E., Nawaz, S. et al. Enhanced hippocampal LTP but normal NMDA receptor and AMPA receptor function in a rat model of CDKL5 deficiency disorder. Molecular Autism 15, 28 (2024). https://doi.org/10.1186/s13229-024-00601-9_

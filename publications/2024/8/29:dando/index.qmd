@@ -1,0 +1,15 @@
+---
+title: "A comparison of basal and activity-dependent exon splicing in cortical-patterned neurons of human and mouse origin"
+---
+
+_[Published](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2024.1392408/full) in Frontiers in Molecular Neuroscience_
+
+Rodent studies have shown that alternative splicing in neurons plays important roles in development and maturity, and is regulatable by signals such as electrical activity. However, rodent-human similarities are less well explored. 
+
+We compared basal and activity-dependent exon splicing in cortical-patterned human ESC-derived neurons with that in cortical mouse ESC-derived neurons, primary mouse cortical neurons at two developmental stages, and mouse hippocampal neurons, focussing on conserved orthologous exons. Both basal exon inclusion levels and activity-dependent changes in splicing showed human-mouse correlation. Conserved activity regulated exons are enriched in RBFOX, SAM68, NOVA and PTBP targets, and centered on cytoskeletal organization, mRNA processing, and synaptic signaling genes. 
+
+However, human-mouse correlations were weaker than inter-mouse comparisons of neurons from different brain regions, developmental stages and origin (ESC vs. primary), suggestive of some inter-species divergence. The set of genes where activity-dependent splicing was observed only in human neurons were dominated by those involved in lipid biosynthesis, signaling and trafficking. Study of human exon splicing in mouse Tc1 neurons carrying human chromosome-21 showed that neuronal basal exon inclusion was influenced by cis-acting sequences, although may not be sufficient to confer activity-responsiveness in an allospecific environment. 
+
+Overall, these comparisons suggest that neuronal alternative splicing should be confirmed in a human-relevant system even when exon structure is evolutionarily conserved.
+
+_Recommended citation: Dando O, McQueen J, Burr K, Kind PC, Chandran S, Hardingham GE and Qiu J (2024) A comparison of basal and activity-dependent exon splicing in cortical-patterned neurons of human and mouse origin. Front. Mol. Neurosci. 17:1392408. doi: 10.3389/fnmol.2024.1392408_
