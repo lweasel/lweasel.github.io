@@ -1,5 +1,6 @@
 ---
 title: "Synaptic gene expression changes in frontotemporal dementia due to the MAPT 10 + 16 mutation"
+date: 2024-8-20
 ---
 
 _[Published](https://onlinelibrary.wiley.com/doi/full/10.1111/nan.13006) in Neuropathology and Applied Neurobiology_

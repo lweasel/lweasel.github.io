@@ -1,5 +1,6 @@
 ---
 title: 'Enhanced hippocampal LTP but normal NMDA receptor and AMPA receptor function in a rat model of CDKL5 deficiency disorder'
+date: 2024-6-14
 ---
 
 _[Published](https://link.springer.com/article/10.1186/s13229-024-00601-9) in Molecular Autism_

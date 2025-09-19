@@ -1,8 +1,9 @@
 ---
 title: 'Distinct neuroinflammatory signatures exist across genetic and sporadic amyotrophic lateral sclerosis cohorts'
+date: 2023-7-14
 ---
 
-_[Published](https://academic.oup.com/brain/article/146/12/5124/7224417) in Brain (2023)_
+_[Published](https://academic.oup.com/brain/article/146/12/5124/7224417) in Brain_
 
 Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive loss of upper and lower motor neurons. ALS is on a pathogenetic disease spectrum with frontotemporal dementia, referred to as ALS-frontotemporal spectrum disorder (ALS-FTSD). For mutations associated with ALS-FTSD, such as the _C9orf72_ hexanucleotide repeat expansion, the molecular factors associated with heterogeneity along this spectrum require further characterization.
 

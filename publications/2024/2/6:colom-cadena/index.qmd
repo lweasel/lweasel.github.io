@@ -1,5 +1,6 @@
 ---
 title: 'Transmembrane protein 97 is a potential synaptic amyloid beta receptor in human Alzheimer’s disease'
+date: 2024-2-6
 ---
 
 _[Published](https://link.springer.com/article/10.1007/s00401-023-02679-6) in Acta Neuropathalogica_

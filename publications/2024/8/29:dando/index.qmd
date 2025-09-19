@@ -1,5 +1,6 @@
 ---
 title: "A comparison of basal and activity-dependent exon splicing in cortical-patterned neurons of human and mouse origin"
+date: 2024-8-29
 ---
 
 _[Published](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2024.1392408/full) in Frontiers in Molecular Neuroscience_

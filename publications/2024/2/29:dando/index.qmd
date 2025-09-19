@@ -1,5 +1,6 @@
 ---
 title: 'Laboratory Automated Interrogation of Data: an interactive web application for visualization of multilevel data from biological experiments'
+date: 2024-02-29
 ---
 
 _[Published](https://academic.oup.com/braincomms/article/6/2/fcae074/7616116) in Brain Communications_

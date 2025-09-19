@@ -1,8 +1,9 @@
 ---
 title: 'Inhibiting CSF1R alleviates cerebrovascular white matter disease and cognitive impairment'
+date: 2023-11-1
 ---
 
-_[Published](https://onlinelibrary.wiley.com/doi/full/10.1002/glia.24481) in Glia (2023)_
+_[Published](https://onlinelibrary.wiley.com/doi/full/10.1002/glia.24481) in Glia_
 
 White matter abnormalities, related to poor cerebral perfusion, are a core feature of small vessel cerebrovascular disease, and critical determinants of vascular cognitive impairment and dementia. Despite this importance there is a lack of treatment options. 
 

@@ -1,8 +1,9 @@
 ---
 title: 'Cystatin F (Cst7) drives sex-dependent changes in microglia in an amyloid-driven model of Alzheimer’s disease'
+date: 2023-12-12
 ---
 
-_[Published](https://elifesciences.org/articles/85279) in eLife (2023)_
+_[Published](https://elifesciences.org/articles/85279) in eLife_
 
 Microglial endolysosomal (dys)function is strongly implicated in neurodegenerative disease. Transcriptomic studies show that a microglial state characterised by a set of genes involved in endolysosomal function is induced in both mouse Alzheimer’s disease (AD) models and human AD brain, and that the emergence of this state is emphasised in females. Cst7 (encoding cystatin F) is among the most highly upregulated genes in these microglia. However, despite such striking and robust upregulation, the function of Cst7 in neurodegenerative disease is not understood. 
 
