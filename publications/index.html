@@ -72,6 +72,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-publications_2025 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-publications_2025'] = new List('listing-publications_2025', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-publications_2024 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -219,8 +247,9 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2024</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2023</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2025</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2024</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2023</a></li>
   </ul>
 </nav>
     </div>
@@ -248,7 +277,37 @@ window.Quarto = {
 
 <p>You can also find my articles on my <a href="https://scholar.google.com/citations?user=_gZHMm8AAAAJ&amp;hl=en">Google Scholar profile</a>.</p>
 <section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">2024</h2>
+<h2 class="anchored" data-anchor-id="section">2025</h2>
+<div id="listing-publications_2025" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1736121600000" data-listing-file-modified-sort="1759413923566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<div class="thumbnail"><a href="../publications/2025/1/6:O'Keeffe/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../publications/2025/1/6:O'Keeffe/index.html" class="no-external">Typical development of synaptic and neuronal properties can proceed without microglia in the cortex and thalamus</a>
+</h3>
+<div class="delink listing-description"><a href="../publications/2025/1/6:O'Keeffe/index.html" class="no-external">
+<em>Published in Nature Neuroscience</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../publications/2025/1/6:O'Keeffe/index.html" class="no-external">
+<div class="listing-date">
+Jan 6, 2025
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2024</h2>
 <div id="listing-publications_2024" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-date-sort="1724886000000" data-listing-file-modified-sort="1758289175164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="256">
@@ -365,8 +424,8 @@ Feb 6, 2024
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">2023</h2>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2023</h2>
 <div id="listing-publications_2023" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-date-sort="1702339200000" data-listing-file-modified-sort="1758289329092" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
