@@ -1,0 +1,10 @@
+---
+title: "Typical development of synaptic and neuronal properties can proceed without microglia in the cortex and thalamus"
+date: 2025-01-06
+---
+
+_[Published](https://www.nature.com/articles/s41593-024-01833-x) in Nature Neuroscience_
+
+Brain-resident macrophages, microglia, have been proposed to have an active role in synaptic refinement and maturation, influencing plasticity and circuit-level connectivity. Here we show that several neurodevelopmental processes previously attributed to microglia can proceed without them. Using a genetically modified mouse that lacks microglia (Csf1r∆FIRE/∆FIRE), we find that intrinsic properties, synapse number and synaptic maturation are largely normal in the hippocampal CA1 region and somatosensory cortex at stages where microglia have been implicated. Seizure susceptibility and hippocampal-prefrontal cortex coherence in awake behaving animals, processes that are disrupted in mice deficient in microglia-enriched genes, are also normal. Similarly, eye-specific segregation of inputs into the lateral geniculate nucleus proceeds normally in the absence of microglia. Single-cell and single-nucleus transcriptomic analyses of neurons and astrocytes did not uncover any substantial perturbation caused by microglial absence. Thus, the brain possesses remarkable adaptability to execute developmental synaptic refinement, maturation and connectivity in the absence of microglia.
+
+_Recommended citation: O’Keeffe, M., Booker, S.A., Walsh, D. et al. Typical development of synaptic and neuronal properties can proceed without microglia in the cortex and thalamus. Nat Neurosci 28, 268–279 (2025). https://doi.org/10.1038/s41593-024-01833-x_
