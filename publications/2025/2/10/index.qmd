@@ -1,0 +1,10 @@
+---
+title: "The Fragile X Messenger Ribonucleoprotein 1 Regulates the Morphology and Maturation of Human and Rat Oligodendrocytes"
+date: 2025-02-10
+---
+
+_[Published](https://onlinelibrary.wiley.com/doi/full/10.1002/glia.24680) in Glia_
+
+The Fragile X Messenger Ribonucleoprotein (FMRP) is an RNA binding protein that regulates the translation of multiple mRNAs and is expressed by neurons and glia in the mammalian brain. Loss of FMRP leads to fragile X syndrome (FXS), a common inherited form of intellectual disability and autism. While most research has been focusing on the neuronal contribution to FXS pathophysiology, the role of glia, particularly oligodendrocytes, is largely unknown. FXS individuals are characterized by white matter changes, which imply impairments in oligodendrocyte differentiation and myelination. We hypothesized that FMRP regulates oligodendrocyte maturation and myelination during postnatal development. Using a combination of human pluripotent stem cell—derived oligodendrocytes and an Fmr1 knockout rat model, we studied the role of FMRP on mammalian oligodendrocyte development. We found that the loss of FMRP leads to shared defects in oligodendrocyte morphology in both rat and human systems in vitro, which persist in the presence of FMRP-expressing axons in chimeric engraftment models. Our findings point to species-conserved, cell-autonomous defects during oligodendrocyte maturation in FXS.
+
+_Recommended citation: Ramesh, V., Tsoukala, E., Kougianou, I. et al. The Fragile X Messenger Ribonucleoprotein 1 Regulates the Morphology and Maturation of Human and Rat Oligodendrocytes. Glia 73: 1203–1220 (2025). https://doi.org/10.1002/glia.24680._
