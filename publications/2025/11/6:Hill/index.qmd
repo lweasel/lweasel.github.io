@@ -1,0 +1,10 @@
+---
+title: "Molecular profiling of brain endothelial cell to astrocyte endfoot communication in mouse and human"
+date: 2025-11-06
+---
+
+_[Published](https://www.nature.com/articles/s41467-025-65487-4) in Nature Communications_
+
+Our understanding of how the body communicates with the brain to coordinate their functions is remarkably limited. At the blood-brain barrier (BBB), brain endothelial cells (BECs) are ideally positioned to mediate signaling between blood and brain parenchyma via direct communication with astrocyte perivascular processes (endfeet). We develop a method to define the mouse in vivo astrocyte endfoot proteome, which in combination with BEC-specific RNA-seq, reveal BEC to astrocyte endfoot ligand-receptor pairs that are modulated when mice are exposed to a peripheral inflammatory insult with lipopolysaccharide. We show that over 80% of these mouse BEC-endfoot ligand-receptor pairs are also found in the human BBB, with a subset of them differentially expressed in human multiple sclerosis or Alzheimer’s disease compared to healthy individuals. Our findings reveal dynamic BEC-endfoot communication pathways that are relevant to human physiology and provide methodology and datasets for the translational study of BEC-astrocyte crosstalk in health and disease.
+
+_Recommended citation: Hill, S.A., Bravo-Ferrer, I., Čiulkinytė, A. et al. Molecular profiling of brain endothelial cell to astrocyte endfoot communication in mouse and human. Nat Commun 16, 9750 (2025). https://doi.org/10.1038/s41467-025-65487-4._

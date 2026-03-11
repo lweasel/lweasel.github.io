@@ -1,0 +1,10 @@
+---
+title: "Endothelial cell Nrf2 controls neuroinflammation following a systemic insult"
+date: 2025-06-20
+---
+
+_[Published](https://www.cell.com/iscience/fulltext/S2589-0042(25)00891-0) in iScience_
+
+Systemic inflammation can lead to neuroinflammation with acute consequences such as delirium and long-lasting deleterious effects including cognitive decline and the exacerbation of neurodegenerative disease progression. Here, we show that transcription factor Nrf2 controls brain endothelial cell homeostasis and barrier strength. We found that peripheral inflammation caused infiltration of macrophages, microglial activation, and inflammatory reactive astrogliosis, all of which could be prevented by RTA-404, an activator of the transcription factor Nrf2 and close structural relative of the recently FDA-approved Nrf2 activator RTA-408 (omaveloxolone). To identify the key cellular mediator(s), we generated an endothelial cell-specific Nrf2 knockout mouse. Strikingly, the effects of RTA-404 on brain endothelial activation and downstream neuroinflammatory events were abolished by endothelial cell-specific Nrf2 deletion. This places endothelial cell Nrf2 as a peripherally accessible therapeutic target to reduce the CNS-adverse consequences of systemic inflammation.
+
+_Recommended citation: Zou, H., Leah, T., Huang, Z. et al. Endothelial cell Nrf2 controls neuroinflammation following a systemic insult. iScience Volume 28, Issue 6112630 (2025). https://doi.org/10.1016/j.isci.2025.112630._

@@ -1,0 +1,10 @@
+---
+title: "Nrf2 controls homeostatic transcriptional signatures and inflammatory responses in a cell-type specific manner in the adult mouse brain"
+date: 2025-09-19
+---
+
+_[Published](https://www.cell.com/iscience/fulltext/S2589-0042(25)01459-2) in iScience_
+
+Nrf2 is a promising therapeutic target for neurological disorders, but its mechanisms of action remain unclear. While often linked to anti-inflammatory effects, this is mostly based on studies involving pharmacological activation. In the brain, Nrf2 is highly expressed in microglia, astrocytes, and endothelial cells. As yet, the brain cell type-specific role of Nrf2 in regulating the basal transcriptome and controlling neuroinflammation is unknown. To address this, we employed three inducible conditional Nrf2 knockout mice in which Nrf2 is deleted in microglia, astrocytes, and brain endothelial cells, respectively. We discovered that in healthy brains, Nrf2 controls distinct transcriptional profiles in the three brain cell types under study. Surprisingly, after systemic inflammation, microglia, and astrocytes lacking Nrf2 showed reduced inflammatory responses, unlike endothelial cells. Additionally, even without any insult, Nrf2 in microglia supported the expression of pro-inflammatory genes. Our findings reveal a pro-inflammatory role for endogenous Nrf2 in specific brain cell types.
+
+_Recommended citation: He, X., Dando, O. and Qiu, J. Nrf2 controls homeostatic transcriptional signatures and inflammatory responses in a cell-type specific manner in the adult mouse brain. iScience Volume 28, Issue 9113198 (2025). https://doi.org/10.1016/j.isci.2025.113198._
