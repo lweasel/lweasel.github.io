@@ -1,0 +1,10 @@
+---
+title: "General Anesthesia Alters CNS and Astrocyte Expression of Activity-Dependent And Activity-Independent"
+date: 2023-08-21
+---
+
+_[Published](https://doi.org/10.3389/fnetp.2023.1216366) in Frontiers in Network Physiology_
+
+General anesthesia represents a common clinical intervention and yet can result in long-term adverse CNS effects particularly in the elderly or dementia patients. Suppression of cortical activity is a key feature of the anesthetic-induced unconscious state, with activity being a well-described regulator of pathways important for brain health. However, the extent to which the effects of anesthesia go beyond simple suppression of neuronal activity is incompletely understood. We found that general anesthesia lowered cortical expression of genes induced by physiological activity in vivo, and recapitulated additional patterns of gene regulation induced by total blockade of firing activity in vitro, including repression of neuroprotective genes and induction of pro-apoptotic genes. However, the influence of anesthesia extended beyond that which could be accounted for by activity modulation, including the induction of non activity-regulated genes associated with inflammation and cell death. We next focused on astrocytes, important integrators of both neuronal activity and inflammatory signaling. General anesthesia triggered gene expression changes consistent with astrocytes being in a low-activity environment, but additionally caused induction of a reactive profile, with transcriptional changes enriched in those triggered by stroke, neuroinflammation, and Aß/tau pathology. Thus, while the effects of general anesthesia on cortical gene expression are consistent with the strong repression of brain activity, further deleterious effects are apparent including a reactive astrocyte profile.
+
+_Recommended citation: Jiwaji Z, Márkus NM, McQueen J, Emelianova K, He X, Dando O, Chandran S and Hardingham GE (2023) General anesthesia alters CNS and astrocyte expression of activity-dependent and activity-independent genes. Front. Netw. Physiol. 3:1216366. doi: 10.3389/fnetp.2023.1216366._

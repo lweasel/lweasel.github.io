@@ -1,0 +1,10 @@
+---
+title: "Identifying foetal forebrain interneurons as a target for monogenic autism risk factors and the polygenic 16p11.2 microdeletion"
+date: 2023-01-19
+---
+
+_[Published](https://doi.org/10.1186/s12868-022-00771-3) in BMC Neuroscience_
+
+Autism spectrum condition or ‘autism’ is associated with numerous genetic risk factors including the polygenic 16p11.2 microdeletion. The balance between excitatory and inhibitory neurons in the cerebral cortex is hypothesised to be critical for the aetiology of autism making improved understanding of how risk factors impact on the development of these cells an important area of research. In the current study we aim to combine bioinformatics analysis of human foetal cerebral cortex gene expression data with anatomical and electrophysiological analysis of a 16p11.2+/- rat model to investigate how genetic risk factors impact on inhibitory neuron development.
+
+_Recommended citation: Yang, Y., Booker, S.A., Clegg, J.M. et al. Identifying foetal forebrain interneurons as a target for monogenic autism risk factors and the polygenic 16p11.2 microdeletion. BMC Neurosci 24, 5 (2023). https://doi.org/10.1186/s12868-022-00771-3._

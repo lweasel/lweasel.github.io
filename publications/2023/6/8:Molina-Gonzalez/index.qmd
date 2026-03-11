@@ -1,0 +1,10 @@
+---
+title: "Astrocyte-oligodendrocyte interaction regulates central nervous system regeneration"
+date: 2023-06-08
+---
+
+_[Published](https://doi.org/10.1038/s41467-023-39046-8) in Nature Communications_
+
+Failed regeneration of myelin around neuronal axons following central nervous system damage contributes to nerve dysfunction and clinical decline in various neurological conditions, for which there is an unmet therapeutic demand. Here, we show that interaction between glial cells – astrocytes and mature myelin-forming oligodendrocytes – is a determinant of remyelination. Using in vivo/ ex vivo/ in vitro rodent models, unbiased RNA sequencing, functional manipulation, and human brain lesion analyses, we discover that astrocytes support the survival of regenerating oligodendrocytes, via downregulation of the Nrf2 pathway associated with increased astrocytic cholesterol biosynthesis pathway activation. Remyelination fails following sustained astrocytic Nrf2 activation in focally-lesioned male mice yet is restored by either cholesterol biosynthesis/efflux stimulation, or Nrf2 inhibition using the existing therapeutic Luteolin. We identify that astrocyte-oligodendrocyte interaction regulates remyelination, and reveal a drug strategy for central nervous system regeneration centred on targeting this interaction.
+
+_Recommended citation: Molina-Gonzalez, I., Holloway, R.K., Jiwaji, Z. et al. Astrocyte-oligodendrocyte interaction regulates central nervous system regeneration. Nat Commun 14, 3372 (2023). https://doi.org/10.1038/s41467-023-39046-8._
