@@ -1,0 +1,10 @@
+---
+title: "ASD mutations in the ciliary gene CEP41 impact development of projection neurons and interneurons in a human cortical organoid model"
+date: 2026-05-04
+---
+
+_[Published](https://www.nature.com/articles/s41380-026-03615-2) in Molecular Psychiatry_
+
+Primary cilia control cell-cell signalling and their dysfunction has been implicated in Autism Spectrum Disorders (ASD) but their roles in the ASD aetiology remain largely unexplored. Here, we analysed the impact of ASD mutations in CEP41 using human cortical organoids. CEP41 encodes a centrosomal protein located at the basal body and the ciliary axoneme and is mutated in ASD individuals and in Joubert syndrome, a ciliopathy with high incidence of ASD. To gain insights into CEP41’s role in ASD aetiology, we characterised human cortical organoids carrying the CEP41 R242H point mutations found in ASD individuals. This mutation did not interfere with CEP41’s ciliary localisation but cilia were shorter and had lower levels of tubulin polyglutamylation, which is indicative of altered cilia stability and signalling. Moreover, scRNAseq analyses revealed that the expression of several transcription factors with critical roles in interneuron development was altered in mutant interneurons and their progenitors. The CEP41 mutation also caused an augmented formation of upper layer cortical neurons. Taken together, these findings indicate that CEP41 controls excitatory and inhibitory neuron differentiation, alterations in which might lead to an excitation/inhibition imbalance that is widely recognized as a convergent mechanism underlying neurodevelopmental disorders.
+
+_Hasenpusch-Theil, K., Lesayova, A., Kozić, Z., Beltran, M., Wilson, G., Henderson, N.C., Dando, O., and Theil, T. (2026). ASD mutations in the ciliary gene CEP41 impact development of projection neurons and interneurons in a human cortical organoid model. Mol Psychiatry. https://doi.org/10.1038/s41380-026-03615-2._

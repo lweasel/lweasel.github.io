@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 listing:
+  - id: publications_2026
+    contents: "2026/**/index.qmd"
   - id: publications_2025
     contents: "2025/**/index.qmd"
     sort: "date desc"
@@ -13,6 +15,11 @@ listing:
 ---
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=_gZHMm8AAAAJ&hl=en).
+
+## 2026
+
+:::{#publications_2026}
+:::
 
 ## 2025
 
