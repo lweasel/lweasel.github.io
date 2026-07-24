@@ -1,7 +1,6 @@
 ---
 title: 'TIL#1: Adding date and time to command line history'
 date: 2024-11-14
-permalink: /posts/2024/11/history-time/
 categories:
   - til
   - bash
