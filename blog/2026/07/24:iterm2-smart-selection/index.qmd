@@ -2,7 +2,7 @@
 title: 'TIL#2: iTerm2 smart selection and gene symbols'
 date: 2026-07-24
 permalink: /posts/2026/07/iterm2-smart-selection/
-tags:
+categories:
   - til
   - iTerm2
 ---
