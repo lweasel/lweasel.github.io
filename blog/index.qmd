@@ -1,10 +1,18 @@
 ---
 title: "Blog"
 listing:
+  - id: posts_2026
+    contents: "2026/**/index.qmd"
+    sort: "date desc"
   - id: posts_2024
     contents: "2024/**/index.qmd"
     sort: "date desc"
 ---
+
+## 2026
+
+:::{#posts_2026}
+:::
 
 ## 2024
 

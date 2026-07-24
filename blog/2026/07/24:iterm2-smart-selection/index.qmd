@@ -1,0 +1,56 @@
+---
+title: 'TIL#2: iTerm2 smart selection and gene symbols'
+date: 2026-07-24
+permalink: /posts/2026/07/iterm2-smart-selection/
+tags:
+  - til
+  - iTerm2
+---
+
+I've been using iTerm2 as the terminal app on my Mac for a while now, and am embarrassed to say that I only exploit a tiny fraction of its capabilities. Here's one that I just learned about – smart selection.
+
+According to the [docs](https://iterm2.com/documentation-smart-selection.html), smart selection "simplifies making selections on semantically recognizable objects." In practice, this means that you can set up regular expressions, and when text in the terminal matches one of these, take actions. Here, for example, is how you can make iTerm2 recognise Ensembl gene IDs, and do something useful with them.
+
+Smart selections are defined deep down in the iTerm2 Settings dialog:
+
+iTerm2 → Settings → Profiles → Advanced → Smart Selection → Edit
+
+Clicking this button summons a slightly intimidating window:
+
+![iTerm2's "Smart Selection Rules" dialog box](smart-selection-rules.png)
+
+But it's simpler than it seems. We'll click the "+" icon to add a new rule, then in turn click "Enter Description" and "Enter Regular Expression" to edit these:
+
+![Clicking the "+" button adds a new rule](smart-selection-rules-new-rule-added.png)
+
+I've called the new rule "Mouse Ensembl ID" and defined it to match the regular expression:
+
+```
+\bENSMUSG\d{11}\b
+```
+
+i.e. a word boundary, followed by "ENSMUSG", 11 digits, and another word boundary. I've also set the "Precision" to "Very High". This means that I don't expect this regular expression to produce false positives – everything it matches should be an Ensembl mouse gene ID – and thus I would like it to take precedence over other rules that might match this text:
+
+![A rule matching Ensembl mouse gene IDs has been defined](smart-selection-rules-new-rule-defined.png)
+
+To add an action, click the "Edit Actions..." button with this rule selected, or just double-click the rule in the table:
+
+![Double-clicking the rule summons the "Edit Actions" dialog](context-menu-items-for-smart-selection-rule.png)
+
+Again, clicking the "+" button here allows us to add a menu item that will appear in the context menu when we right click on some text matching our rule. 
+
+![Adding a context menu item for Ensembl mouse gene IDs](menu-item-defined.png)
+
+There are all kinds of actions you can take, but I've chosen to simply load a URL:
+
+```
+https://www.ensembl.org/Mus_musculus/Gene/Summary?g=\0
+```
+
+That is, to open the Ensembl gene summary page for the gene – the "\0" substitutes into the URL the whole text which matched our regular expression.
+
+And here it is – now when I right-click on an Ensembl mouse gene ID in the terminal, I get a menu item which will take me directly to that gene's summary page on the Ensembl web site:
+
+![](menu-item.png){width=50% fig-align="center"}
+
+
