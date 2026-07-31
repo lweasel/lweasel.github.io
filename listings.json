@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/2026/07/24:iterm2-smart-selection/index.html",
-      "/blog/2024/11/15:history-time/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/2026/5/4:Hasenpusch-Theil/index.html",
@@ -27,6 +20,14 @@
       "/publications/2023/7/3:Baxter/index.html",
       "/publications/2023/6/8:Molina-Gonzalez/index.html",
       "/publications/2023/1/19:Yang/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2026/07/31:dplyr-string-filtering/index.html",
+      "/blog/2026/07/24:iterm2-smart-selection/index.html",
+      "/blog/2024/11/15:history-time/index.html"
     ]
   }
 ]
