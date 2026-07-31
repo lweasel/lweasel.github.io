@@ -1,0 +1,47 @@
+---
+title: 'Note to self: column selection and row filtering in dplyr'
+date: 2026-07-31
+categories:
+   - notes to self
+   - dplyr
+   - R
+format:
+  html:
+    df-print: kable
+---
+
+```{r include=FALSE}
+library(dplyr)
+library(magrittr)
+library(stringr)
+```
+
+As I'm no longer quite the spring chicken I once was, and information seems to
+be harder to get to stick in the brain, here's the first in a series of small 
+notes to myself (and anyone else for whom they might be useful) of things that 
+I repeatedly have to look up.
+
+If I have a data frame in R:
+
+```{r echo=FALSE}
+df <- data.frame(
+  X1 = c("A1", "A2", "B1", "B2"),
+  X2 = c("C1", "C2", "D1", "D2"),
+  Y1 = c("E1", "E2", "F1", "F2")
+)
+
+df
+```
+
+and I want to select columns whose name begins with a string, the syntax is:
+
+```{r}
+df %>% dplyr::select(dplyr::starts_with("X"))
+```
+
+But if I want to filter to include only _rows_ whose value (in a particular column)
+starts with a certain string, then I can use the `stringr` package: 
+
+```{r}
+df %>% dplyr::filter(stringr::str_starts(X1, "A"))
+```
