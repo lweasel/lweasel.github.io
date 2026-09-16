@@ -1,0 +1,10 @@
+---
+title: "Neurons and neuronal activity control gene expression in astrocytes to regulate their development and metabolism"
+date: 2017-05-02
+---
+
+_[Published](https://doi.org/10.1038/ncomms15132) in Nature Communications_
+
+The influence that neurons exert on astrocytic function is poorly understood. To investigate this, we first developed a system combining cortical neurons and astrocytes from closely related species, followed by RNA-seq and in silico species separation. This approach uncovers a wide programme of neuron-induced astrocytic gene expression, involving Notch signalling, which drives and maintains astrocytic maturity and neurotransmitter uptake function, is conserved in human development, and is disrupted by neurodegeneration. Separately, hundreds of astrocytic genes are acutely regulated by synaptic activity via mechanisms involving cAMP/PKA-dependent CREB activation. This includes the coordinated activity-dependent upregulation of major astrocytic components of the astrocyte-neuron lactate shuttle, leading to a CREB-dependent increase in astrocytic glucose metabolism and elevated lactate export. Moreover, the groups of astrocytic genes induced by neurons or neuronal activity both show age-dependent decline in humans. Thus, neurons and neuronal activity regulate the astrocytic transcriptome with the potential to shape astrocyte-neuron metabolic cooperation.
+
+_Recommended citation: Hasel, P., Dando, O., Jiwaji, Z. et al. (2017). Neurons and neuronal activity control gene expression in astrocytes to regulate their development and metabolism. Nature Communications 8(1), 15132. https://doi.org/10.1038/ncomms15132._

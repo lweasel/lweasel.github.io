@@ -1,0 +1,16 @@
+---
+title: "Secondary injury and inflammation after intracerebral haemorrhage: a systematic review and meta-analysis of molecular markers in patient brain tissue"
+date: 2021-08-06
+---
+
+_[Published](https://doi.org/10.1136/jnnp-2021-327098) in Journal of Neurology, Neurosurgery &amp; Psychiatry_
+
+**Background.** Inflammatory responses to intracerebral haemorrhage (ICH) are potential therapeutic targets. We aimed to quantify molecular markers of inflammation in human brain tissue after ICH compared with controls using meta-analysis.
+
+**Methods.** We searched OVID MEDLINE (1946-) and Embase (1974-) in June 2020 for studies that reported any measure of a molecular marker of inflammation in brain tissue from five or more adults after ICH. We assessed risk of bias using a modified Newcastle-Ottawa Scale (mNOS; mNOS score 0-9; 9 indicates low bias), extracted aggregate data, and used random effects meta-analysis to pool associations of molecules where more than two independent case-control studies reported the same outcome and Gene Ontology enrichment analysis to identify over-represented biological processes in pooled sets of differentially expressed molecules (International Prospective Register of Systematic Reviews ID: CRD42018110204).
+
+**Results.** Of 7501 studies identified, 44 were included: 6 were case series and 38 were case-control studies (median mNOS score 4, IQR 3-5). We extracted data from 21 491 analyses of 20 951 molecules reported by 38 case-control studies. Only one molecule (interleukin-1β protein) was quantified in three case-control studies (127 ICH cases vs 41 ICH-free controls), which found increased abundance of interleukin-1β protein after ICH (corrected standardised mean difference 1.74, 95% CI 0.28 to 3.21, p=0.036, I<sup>2</sup>=46%). Processes associated with interleukin-1β signalling were enriched in sets of molecules that were more abundant after ICH.
+
+**Conclusion.** Interleukin-1β abundance is increased after ICH, but analyses of other inflammatory molecules after ICH lack replication. Interleukin-1β pathway modulators may optimise inflammatory responses to ICH and merit testing in clinical trials.
+
+_Recommended citation: Loan, J.J., Kirby, C., Emelianova, K. et al. (2022). Secondary injury and inflammation after intracerebral haemorrhage: a systematic review and meta-analysis of molecular markers in patient brain tissue. Journal of Neurology, Neurosurgery &amp; Psychiatry 93(2), 126-132. https://doi.org/10.1136/jnnp-2021-327098._

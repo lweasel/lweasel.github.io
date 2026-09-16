@@ -1,0 +1,10 @@
+---
+title: "Reversal of proliferation deficits caused by chromosome 16p13.11 microduplication through targeting NFκB signaling: an integrated study of patient-derived neuronal precursor cells, cerebral organoids and in vivo brain imaging"
+date: 2018-11-06
+---
+
+_[Published](https://doi.org/10.1038/s41380-018-0292-1) in Molecular Psychiatry_
+
+The molecular basis of how chromosome 16p13.11 microduplication leads to major psychiatric disorders is unknown. Here we have undertaken brain imaging of patients carrying microduplications in chromosome 16p13.11 and unaffected family controls, in parallel with iPS cell-derived cerebral organoid studies of the same patients. Patient MRI revealed reduced cortical volume, and corresponding iPSC studies showed neural precursor cell (NPC) proliferation abnormalities and reduced organoid size, with the NPCs therein displaying altered planes of cell division. Transcriptomic analyses of NPCs uncovered a deficit in the NFκB p65 pathway, confirmed by proteomics. Moreover, both pharmacological and genetic correction of this deficit rescued the proliferation abnormality. Thus, chromosome 16p13.11 microduplication disturbs the normal programme of NPC proliferation to reduce cortical thickness due to a correctable deficit in the NFκB signalling pathway. This is the first study demonstrating a biologically relevant, potentially ameliorable, signalling pathway underlying chromosome 16p13.11 microduplication syndrome in patient-derived neuronal precursor cells.
+
+_Recommended citation: Johnstone, M., Vasistha, N.A., Barbu, M.C. et al. (2019). Reversal of proliferation deficits caused by chromosome 16p13.11 microduplication through targeting NFκB signaling: an integrated study of patient-derived neuronal precursor cells, cerebral organoids and in vivo brain imaging. Molecular Psychiatry 24(2), 294-311. https://doi.org/10.1038/s41380-018-0292-1._

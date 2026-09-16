@@ -1,0 +1,10 @@
+---
+title: "Characterisation of Cdkl5 transcript isoforms in rat"
+date: 2016-12-07
+---
+
+_[Published](https://doi.org/10.1016/j.gene.2016.12.001) in Gene_
+
+CDKL5 deficiency is a severe neurological disorder caused by mutations in the X-linked Cyclin-Dependent Kinase-Like 5 gene (CDKL5). The predominant human CDKL5 brain isoform is a 9.7kb transcript comprised of 18 exons with a large 6.6kb 3'-untranslated region (UTR). Mammalian models of CDKL5 disorder are currently limited to mouse, and little is known about Cdkl5 in other organisms used to model neurodevelopmental disorders, such as rat. In this study we characterise, both bioinformatically and experimentally, the rat Cdkl5 gene structure and its associated transcript isoforms. New exonic regions, splice sites and UTRs are described, confirming the presence of four distinct transcript isoforms. The predominant isoform in the brain, which we name rCdkl5_1, is orthologous to the human hCDKL5_1 and mouse mCdkl5_1 isoforms and is the most highly expressed isoform across all brain regions tested. This updated gene model of Cdkl5 in rat provides a framework for studies into its protein products and provides a reference for the development of molecular therapies for testing in rat models of CDKL5 disorder.
+
+_Recommended citation: Hector, R.D., Dando, O., Ritakari, T.E. et al. (2017). Characterisation of Cdkl5 transcript isoforms in rat. Gene 603, 21-26. https://doi.org/10.1016/j.gene.2016.12.001._

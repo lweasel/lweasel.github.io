@@ -1,0 +1,10 @@
+---
+title: "Amyloid Beta and Tau Cooperate to Cause Reversible Behavioral and Transcriptional Deficits in a Model of Alzheimer's Disease"
+date: 2019-12-10
+---
+
+_[Published](https://doi.org/10.1016/j.celrep.2019.11.044) in Cell Reports_
+
+A key knowledge gap blocking development of effective therapeutics for Alzheimer's disease (AD) is the lack of understanding of how amyloid beta (Aβ) peptide and pathological forms of the tau protein cooperate in causing disease phenotypes. Within a mouse tau-deficient background, we probed the molecular, cellular, and behavioral disruption triggered by the influence of wild-type human tau on human Aβ-induced pathology. We find that Aβ and tau work cooperatively to cause a hyperactivity behavioral phenotype and to cause downregulation of transcription of genes involved in synaptic function. In both our mouse model and human postmortem tissue, we observe accumulation of pathological tau in synapses, supporting the potential importance of synaptic tau. Importantly, tau reduction in the mice initiated after behavioral deficits emerge corrects behavioral deficits, reduces synaptic tau levels, and substantially reverses transcriptional perturbations, suggesting that lowering synaptic tau levels may be beneficial in AD.
+
+_Recommended citation: Pickett, E.K., Herrmann, A.G., McQueen, J. et al. (2019). Amyloid Beta and Tau Cooperate to Cause Reversible Behavioral and Transcriptional Deficits in a Model of Alzheimer's Disease. Cell Reports 29(11), 3592-3604.e5. https://doi.org/10.1016/j.celrep.2019.11.044._

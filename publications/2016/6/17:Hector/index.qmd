@@ -1,0 +1,10 @@
+---
+title: "Characterisation of CDKL5 Transcript Isoforms in Human and Mouse"
+date: 2016-06-17
+---
+
+_[Published](https://doi.org/10.1371/journal.pone.0157758) in PLOS ONE_
+
+Mutations in the X-linked Cyclin-Dependent Kinase-Like 5 gene (CDKL5) cause early onset infantile spasms and subsequent severe developmental delay in affected children. Deleterious mutations have been reported to occur throughout the CDKL5 coding region. Several studies point to a complex CDKL5 gene structure in terms of exon usage and transcript expression. Improvements in molecular diagnosis and more extensive research into the neurobiology of CDKL5 and pathophysiology of CDKL5 disorders necessitate an updated analysis of the gene. In this study, we have analysed human and mouse CDKL5 transcript patterns both bioinformatically and experimentally. We have characterised the predominant brain isoform of CDKL5, a 9.7 kb transcript comprised of 18 exons with a large 6.6 kb 3'-untranslated region (UTR), which we name hCDKL5_1. In addition we describe new exonic regions and a range of novel splice and UTR isoforms. This has enabled the description of an updated gene model in both species and a standardised nomenclature system for CDKL5 transcripts. Profiling revealed tissue- and brain development stage-specific differences in expression between transcript isoforms. These findings provide an essential backdrop for the diagnosis of CDKL5-related disorders, for investigations into the basic biology of this gene and its protein products, and for the rational design of gene-based and molecular therapies for these disorders.
+
+_Recommended citation: Hector, R.D., Dando, O., Landsberger, N. et al. (2016). Characterisation of CDKL5 Transcript Isoforms in Human and Mouse. PLOS ONE 11(6), e0157758. https://doi.org/10.1371/journal.pone.0157758._

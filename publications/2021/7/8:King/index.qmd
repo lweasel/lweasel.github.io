@@ -1,0 +1,10 @@
+---
+title: "Microarray profiling emphasizes transcriptomic differences between hippocampal in vivo tissue and in vitro cultures"
+date: 2021-07-08
+---
+
+_[Published](https://doi.org/10.1093/braincomms/fcab152) in Brain Communications_
+
+Primary hippocampal cell cultures are routinely used as an experimentally accessible model platform for the hippocampus and brain tissue in general. Containing multiple cell types including neurons, astrocytes and microglia in a state that can be readily analysed optically, biochemically and electrophysiologically, such cultures have been used in many <i>in vitro</i> studies. To what extent the <i>in vivo</i> environment is recapitulated in primary cultures is an on-going question. Here, we compare the transcriptomic profiles of primary hippocampal cell cultures and intact hippocampal tissue. In addition, by comparing profiles from wild type and the PrP 101LL transgenic model of prion disease, we also demonstrate that gene conservation is predominantly conserved across genetically altered lines.
+
+_Recommended citation: King, D., Skehel, P.A., Dando, O. et al. (2021). Microarray profiling emphasizes transcriptomic differences between hippocampal in vivo tissue and in vitro cultures. Brain Communications 3(3), fcab152. https://doi.org/10.1093/braincomms/fcab152._

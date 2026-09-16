@@ -1,0 +1,10 @@
+---
+title: "Expression of mRNA Encoding Mcu and Other Mitochondrial Calcium Regulatory Genes Depends on Cell Type, Neuronal Subtype, and Ca2+ Signaling"
+date: 2016-02-01
+---
+
+_[Published](https://doi.org/10.1371/journal.pone.0148164) in PLOS ONE_
+
+Uptake of Ca2+ into the mitochondrial matrix controls cellular metabolism and survival-death pathways. Several genes are implicated in controlling mitochondrial Ca2+ uptake (mitochondrial calcium regulatory genes, MCRGs), however, less is known about the factors which influence their expression level. Here we have compared MCRG mRNA expression, in neural cells of differing type (cortical neurons vs. astrocytes), differing neuronal subtype (CA3 vs. CA1 hippocampus) and in response to Ca2+ influx, using a combination of qPCR and RNA-seq analysis. Of note, we find that the Mcu-regulating Micu gene family profile differs substantially between neurons and astrocytes, while expression of Mcu itself is markedly different between CA3 and CA1 regions in the adult hippocampus. Moreover, dynamic control of MCRG mRNA expression in response to membrane depolarization-induced Ca2+ influx is also apparent, resulting in repression of Letm1, as well as Mcu. Thus, the mRNA expression profile of MCRGs is not fixed, which may cause differences in the coupling between cytoplasmic and mitochondrial Ca2+, as well as diversity of mitochondrial Ca2+ uptake mechanisms.
+
+_Recommended citation: Márkus, N.M., Hasel, P., Qiu, J. et al. (2016). Expression of mRNA Encoding Mcu and Other Mitochondrial Calcium Regulatory Genes Depends on Cell Type, Neuronal Subtype, and Ca2+ Signaling. PLOS ONE 11(2), e0148164. https://doi.org/10.1371/journal.pone.0148164._

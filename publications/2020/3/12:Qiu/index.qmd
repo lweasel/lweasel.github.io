@@ -1,0 +1,10 @@
+---
+title: "Neuronal Activity and Its Role in Controlling Antioxidant Genes"
+date: 2020-03-12
+---
+
+_[Published](https://doi.org/10.3390/ijms21061933) in International Journal of Molecular Sciences_
+
+Forebrain neurons have relatively weak intrinsic antioxidant defenses compared to astrocytes, in part due to hypo-expression of Nrf2, an oxidative stress-induced master regulator of antioxidant and detoxification genes. Nevertheless, neurons do possess the capacity to auto-regulate their antioxidant defenses in response to electrical activity. Activity-dependent Ca<sup>2+</sup> signals control the expression of several antioxidant genes, boosting redox buffering capacity, thus meeting the elevated antioxidant requirements associated with metabolically expensive electrical activity. These genes include examples which are reported Nrf2 target genes and yet are induced in a Nrf2-independent manner. Here we discuss the implications for Nrf2 hypofunction in neurons and the mechanisms underlying the Nrf2-independent induction of antioxidant genes by electrical activity. A significant proportion of Nrf2 target genes, defined as those genes controlled by Nrf2 in astrocytes, are regulated by activity-dependent Ca<sup>2+</sup> signals in human stem cell-derived neurons. We propose that neurons interpret Ca<sup>2+</sup> signals in a similar way to other cell types sense redox imbalance, to broadly induce antioxidant and detoxification genes.
+
+_Recommended citation: Qiu, J., Dando, O., Febery, J.A. et al. (2020). Neuronal Activity and Its Role in Controlling Antioxidant Genes. International Journal of Molecular Sciences 21(6), 1933. https://doi.org/10.3390/ijms21061933._

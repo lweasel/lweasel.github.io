@@ -1,0 +1,10 @@
+---
+title: "Input-Output Relationship of CA1 Pyramidal Neurons Reveals Intact Homeostatic Mechanisms in a Mouse Model of Fragile X Syndrome"
+date: 2020-08-11
+---
+
+_[Published](https://doi.org/10.1016/j.celrep.2020.107988) in Cell Reports_
+
+Cellular hyperexcitability is a salient feature of fragile X syndrome animal models. The cellular basis of hyperexcitability and how it responds to changing activity states is not fully understood. Here, we show increased axon initial segment length in CA1 of the Fmr1<sup>-/y</sup> mouse hippocampus, with increased cellular excitability. This change in length does not result from reduced AIS plasticity, as prolonged depolarization induces changes in AIS length independent of genotype. However, depolarization does reduce cellular excitability, the magnitude of which is greater in Fmr1<sup>-/y</sup> neurons. Finally, we observe reduced functional inputs from the entorhinal cortex, with no genotypic difference in the firing rates of CA1 pyramidal neurons. This suggests that AIS-dependent hyperexcitability in Fmr1<sup>-/y</sup> mice may result from adaptive or homeostatic regulation induced by reduced functional synaptic connectivity. Thus, while AIS length and intrinsic excitability contribute to cellular hyperexcitability, they may reflect a homeostatic mechanism for reduced synaptic input onto CA1 neurons.
+
+_Recommended citation: Booker, S.A., Simões de Oliveira, L., Anstey, N.J. et al. (2020). Input-Output Relationship of CA1 Pyramidal Neurons Reveals Intact Homeostatic Mechanisms in a Mouse Model of Fragile X Syndrome. Cell Reports 32(6), 107988. https://doi.org/10.1016/j.celrep.2020.107988._

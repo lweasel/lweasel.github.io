@@ -1,0 +1,10 @@
+---
+title: "Familial t(1;11) translocation is associated with disruption of white matter structural integrity and oligodendrocyte-myelin dysfunction"
+date: 2019-09-03
+---
+
+_[Published](https://doi.org/10.1038/s41380-019-0505-2) in Molecular Psychiatry_
+
+Although the underlying neurobiology of major mental illness (MMI) remains unknown, emerging evidence implicates a role for oligodendrocyte-myelin abnormalities. Here, we took advantage of a large family carrying a balanced t(1;11) translocation, which substantially increases risk of MMI, to undertake both diffusion tensor imaging and cellular studies to evaluate the consequences of the t(1;11) translocation on white matter structural integrity and oligodendrocyte-myelin biology. This translocation disrupts among others the DISC1 gene which plays a crucial role in brain development. We show that translocation-carrying patients display significant disruption of white matter integrity compared with familial controls. At a cellular level, we observe dysregulation of key pathways controlling oligodendrocyte development and morphogenesis in induced pluripotent stem cell (iPSC) derived case oligodendrocytes. This is associated with reduced proliferation and a stunted morphology in vitro. Further, myelin internodes in a humanized mouse model that recapitulates the human translocation as well as after transplantation of t(1;11) oligodendrocyte progenitors were significantly reduced when compared with controls. Thus we provide evidence that the t(1;11) translocation has biological effects at both the systems and cellular level that together suggest oligodendrocyte-myelin dysfunction.
+
+_Recommended citation: Vasistha, N.A., Johnstone, M., Barton, S.K. et al. (2019). Familial t(1;11) translocation is associated with disruption of white matter structural integrity and oligodendrocyte-myelin dysfunction. Molecular Psychiatry 24(11), 1641-1654. https://doi.org/10.1038/s41380-019-0505-2._

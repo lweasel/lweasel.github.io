@@ -1,0 +1,10 @@
+---
+title: "Excess ribosomal protein production unbalances translation in a model of Fragile X Syndrome"
+date: 2022-06-10
+---
+
+_[Published](https://doi.org/10.1038/s41467-022-30979-0) in Nature Communications_
+
+Dysregulated protein synthesis is a core pathogenic mechanism in Fragile X Syndrome (FX). The mGluR Theory of FX predicts that pathological synaptic changes arise from the excessive translation of mRNAs downstream of mGlu<sub>1/5</sub> activation. Here, we use a combination of CA1 pyramidal neuron-specific TRAP-seq and proteomics to identify the overtranslating mRNAs supporting exaggerated mGlu<sub>1/5</sub> -induced long-term synaptic depression (mGluR-LTD) in the FX mouse model (Fmr1<sup>-/y</sup>). Our results identify a significant increase in the translation of ribosomal proteins (RPs) upon mGlu<sub>1/5</sub> stimulation that coincides with a reduced translation of long mRNAs encoding synaptic proteins. These changes are mimicked and occluded in Fmr1<sup>-/y</sup> neurons. Inhibiting RP translation significantly impairs mGluR-LTD and prevents the length-dependent shift in the translating population. Together, these results suggest that pathological changes in FX result from a length-dependent alteration in the translating population that is supported by excessive RP translation.
+
+_Recommended citation: Seo, S.S., Louros, S.R., Anstey, N. et al. (2022). Excess ribosomal protein production unbalances translation in a model of Fragile X Syndrome. Nature Communications 13(1), 3236. https://doi.org/10.1038/s41467-022-30979-0._

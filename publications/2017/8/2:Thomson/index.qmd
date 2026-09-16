@@ -1,0 +1,10 @@
+---
+title: "Cell-Type-Specific Translation Profiling Reveals a Novel Strategy for Treating Fragile X Syndrome"
+date: 2017-08-02
+---
+
+_[Published](https://doi.org/10.1016/j.neuron.2017.07.013) in Neuron_
+
+Excessive mRNA translation downstream of group I metabotropic glutamate receptors (mGlu<sub>1/5</sub>) is a core pathophysiology of fragile X syndrome (FX); however, the differentially translating mRNAs that contribute to altered neural function are not known. We used translating ribosome affinity purification (TRAP) and RNA-seq to identify mistranslating mRNAs in CA1 pyramidal neurons of the FX mouse model (Fmr1<sup>-/y</sup>) hippocampus, which exhibit exaggerated mGlu<sub>1/5</sub>-induced long-term synaptic depression (LTD). In these neurons, we find that the Chrm4 transcript encoding muscarinic acetylcholine receptor 4 (M<sub>4</sub>) is excessively translated, and synthesis of M<sub>4</sub> downstream of mGlu<sub>5</sub> activation is mimicked and occluded. Surprisingly, enhancement rather than inhibition of M<sub>4</sub> activity normalizes core phenotypes in the Fmr1<sup>-/y</sup>, including excessive protein synthesis, exaggerated mGluR-LTD, and audiogenic seizures. These results suggest that not all excessively translated mRNAs in the Fmr1<sup>-/y</sup> brain are detrimental, and some may be candidates for enhancement to correct pathological changes in the FX brain.
+
+_Recommended citation: Thomson, S.R., Seo, S.S., Barnes, S.A. et al. (2017). Cell-Type-Specific Translation Profiling Reveals a Novel Strategy for Treating Fragile X Syndrome. Neuron 95(3), 550-563.e5. https://doi.org/10.1016/j.neuron.2017.07.013._

@@ -1,0 +1,10 @@
+---
+title: "Microglial identity and inflammatory responses are controlled by the combined effects of neurons and astrocytes"
+date: 2021-03-23
+---
+
+_[Published](https://doi.org/10.1016/j.celrep.2021.108882) in Cell Reports_
+
+Microglia, brain-resident macrophages, require instruction from the CNS microenvironment to maintain their identity and morphology and regulate inflammatory responses, although what mediates this is unclear. Here, we show that neurons and astrocytes cooperate to promote microglial ramification, induce expression of microglial signature genes ordinarily lost in vitro and in age and disease in vivo, and repress infection- and injury-associated gene sets. The influence of neurons and astrocytes separately on microglia is weak, indicative of synergies between these cell types, which exert their effects via a mechanism involving transforming growth factor β2 (TGF-β2) signaling. Neurons and astrocytes also combine to provide immunomodulatory cues, repressing primed microglial responses to weak inflammatory stimuli (without affecting maximal responses) and consequently limiting the feedback effects of inflammation on the neurons and astrocytes themselves. These findings explain why microglia isolated ex vivo undergo de-differentiation and inflammatory deregulation and point to how disease- and age-associated changes may be counteracted.
+
+_Recommended citation: Baxter, P.S., Dando, O., Emelianova, K. et al. (2021). Microglial identity and inflammatory responses are controlled by the combined effects of neurons and astrocytes. Cell Reports 34(12), 108882. https://doi.org/10.1016/j.celrep.2021.108882._

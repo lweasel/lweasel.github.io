@@ -3,6 +3,7 @@ title: "Publications"
 listing:
   - id: publications_2026
     contents: "2026/**/index.qmd"
+    sort: "date desc"
   - id: publications_2025
     contents: "2025/**/index.qmd"
     sort: "date desc"
@@ -11,6 +12,30 @@ listing:
     sort: "date desc"
   - id: publications_2023
     contents: "2023/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2022
+    contents: "2022/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2021
+    contents: "2021/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2020
+    contents: "2020/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2019
+    contents: "2019/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2018
+    contents: "2018/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2017
+    contents: "2017/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2016
+    contents: "2016/**/index.qmd"
+    sort: "date desc"
+  - id: publications_2014
+    contents: "2014/**/index.qmd"
     sort: "date desc"
 ---
 
@@ -34,4 +59,44 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## 2023
 
 :::{#publications_2023}
+:::
+
+## 2022
+
+:::{#publications_2022}
+:::
+
+## 2021
+
+:::{#publications_2021}
+:::
+
+## 2020
+
+:::{#publications_2020}
+:::
+
+## 2019
+
+:::{#publications_2019}
+:::
+
+## 2018
+
+:::{#publications_2018}
+:::
+
+## 2017
+
+:::{#publications_2017}
+:::
+
+## 2016
+
+:::{#publications_2016}
+:::
+
+## 2014
+
+:::{#publications_2014}
 :::

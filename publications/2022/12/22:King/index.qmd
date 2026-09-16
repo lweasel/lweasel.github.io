@@ -1,0 +1,16 @@
+---
+title: "Synaptic resilience is associated with maintained cognition during ageing"
+date: 2022-12-22
+---
+
+_[Published](https://doi.org/10.1002/alz.12894) in Alzheimer's &amp; Dementia_
+
+**Introduction.** It remains unclear why age increases risk of Alzheimer's disease and why some people experience age-related cognitive decline in the absence of dementia. Here we test the hypothesis that resilience to molecular changes in synapses contribute to healthy cognitive ageing.
+
+**Methods.** We examined post-mortem brain tissue from people in mid-life (n = 15), healthy ageing with either maintained cognition (n = 9) or lifetime cognitive decline (n = 8), and Alzheimer's disease (n = 13). Synapses were examined with high resolution imaging, proteomics, and RNA sequencing. Stem cell-derived neurons were challenged with Alzheimer's brain homogenate.
+
+**Results.** Synaptic pathology increased, and expression of genes involved in synaptic signaling decreased between mid-life, healthy ageing and Alzheimer's. In contrast, brain tissue and neurons from people with maintained cognition during ageing exhibited decreases in synaptic signaling genes compared to people with cognitive decline.
+
+**Discussion.** Efficient synaptic networks without pathological protein accumulation may contribute to maintained cognition during ageing.
+
+_Recommended citation: King, D., Holt, K., Toombs, J. et al. (2023). Synaptic resilience is associated with maintained cognition during ageing. Alzheimer's &amp; Dementia 19(6), 2560-2574. https://doi.org/10.1002/alz.12894._

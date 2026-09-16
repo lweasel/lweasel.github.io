@@ -1,0 +1,10 @@
+---
+title: "Evidence for evolutionary divergence of activity-dependent gene expression in developing neurons"
+date: 2016-10-01
+---
+
+_[Published](https://doi.org/10.7554/elife.20337) in eLife_
+
+Evolutionary differences in gene regulation between humans and lower mammalian experimental systems are incompletely understood, a potential translational obstacle that is challenging to surmount in neurons, where primary tissue availability is poor. Rodent-based studies show that activity-dependent transcriptional programs mediate myriad functions in neuronal development, but the extent of their conservation in human neurons is unknown. We compared activity-dependent transcriptional responses in developing human stem cell-derived cortical neurons with those induced in developing primary- or stem cell-derived mouse cortical neurons. While activity-dependent gene-responsiveness showed little dependence on developmental stage or origin (primary tissue vs. stem cell), notable species-dependent differences were observed. Moreover, differential species-specific gene ortholog regulation was recapitulated in aneuploid mouse neurons carrying human chromosome-21, implicating promoter/enhancer sequence divergence as a factor, including human-specific activity-responsive AP-1 sites. These findings support the use of human neuronal systems for probing transcriptional responses to physiological stimuli or indeed pharmaceutical agents.
+
+_Recommended citation: Qiu, J., McQueen, J., Bilican, B. et al. (2016). Evidence for evolutionary divergence of activity-dependent gene expression in developing neurons. eLife 5, e20337. https://doi.org/10.7554/elife.20337._

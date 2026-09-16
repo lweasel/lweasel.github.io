@@ -1,0 +1,10 @@
+---
+title: "Mutant C9orf72 human iPSC-derived astrocytes cause non-cell autonomous motor neuron pathophysiology"
+date: 2019-12-16
+---
+
+_[Published](https://doi.org/10.1002/glia.23761) in Glia_
+
+Mutations in C9orf72 are the most common genetic cause of amyotrophic lateral sclerosis (ALS). Accumulating evidence implicates astrocytes as important non-cell autonomous contributors to ALS pathogenesis, although the potential deleterious effects of astrocytes on the function of motor neurons remains to be determined in a completely humanized model of C9orf72-mediated ALS. Here, we use a human iPSC-based model to study the cell autonomous and non-autonomous consequences of mutant C9orf72 expression by astrocytes. We show that mutant astrocytes both recapitulate key aspects of C9orf72-related ALS pathology and, upon co-culture, cause motor neurons to undergo a progressive loss of action potential output due to decreases in the magnitude of voltage-activated Na<sup>+</sup> and K<sup>+</sup> currents. Importantly, CRISPR/Cas-9 mediated excision of the C9orf72 repeat expansion reverses these phenotypes, confirming that the C9orf72 mutation is responsible for both cell-autonomous astrocyte pathology and non-cell autonomous motor neuron pathophysiology.
+
+_Recommended citation: Zhao, C., Devlin, A., Chouhan, A.K. et al. (2020). Mutant C9orf72 human iPSC-derived astrocytes cause non-cell autonomous motor neuron pathophysiology. Glia 68(5), 1046-1064. https://doi.org/10.1002/glia.23761._

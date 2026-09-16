@@ -1,0 +1,10 @@
+---
+title: "Mixed-species RNA-seq for elucidation of non-cell-autonomous control of gene transcription"
+date: 2018-09-24
+---
+
+_[Published](https://doi.org/10.1038/s41596-018-0029-2) in Nature Protocols_
+
+Transcriptomic changes induced in one cell type by another mediate many biological processes in the brain and elsewhere; however, achieving artifact-free physical separation of cell types to study them is challenging and generally allows for analysis of only a single cell type. We describe an approach using a co-culture of distinct cell types from different species that enables physical cell sorting to be replaced by in silico RNA sequencing (RNA-seq) read sorting, which is possible because of evolutionary divergence of messenger RNA (mRNA) sequences. As an exemplary experiment, we describe the co-culture of purified neurons, astrocytes, and microglia from different species (12-14 d). We describe how to use our Python tool, Sargasso, to separate the reads from conventional RNA-seq according to species and to eliminate any artifacts borne of imperfect genome annotation (10 h). We show how this procedure, which requires no special skills beyond those that might normally be expected of wet lab and bioinformatics researchers, enables the simultaneous transcriptomic profiling of different cell types, revealing the distinct influence of microglia on astrocytic and neuronal transcriptomes under inflammatory conditions.
+
+_Recommended citation: Qiu, J., Dando, O., Baxter, P.S. et al. (2018). Mixed-species RNA-seq for elucidation of non-cell-autonomous control of gene transcription. Nature Protocols 13(10), 2176-2199. https://doi.org/10.1038/s41596-018-0029-2._

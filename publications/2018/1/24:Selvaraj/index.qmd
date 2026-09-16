@@ -1,0 +1,10 @@
+---
+title: "C9ORF72 repeat expansion causes vulnerability of motor neurons to Ca^2+^-permeable AMPA receptor-mediated excitotoxicity"
+date: 2018-01-24
+---
+
+_[Published](https://doi.org/10.1038/s41467-017-02729-0) in Nature Communications_
+
+Mutations in C9ORF72 are the most common cause of familial amyotrophic lateral sclerosis (ALS). Here, through a combination of RNA-Seq and electrophysiological studies on induced pluripotent stem cell (iPSC)-derived motor neurons (MNs), we show that increased expression of GluA1 AMPA receptor (AMPAR) subunit occurs in MNs with C9ORF72 mutations that leads to increased Ca<sup>2+</sup>-permeable AMPAR expression and results in enhanced selective MN vulnerability to excitotoxicity. These deficits are not found in iPSC-derived cortical neurons and are abolished by CRISPR/Cas9-mediated correction of the C9ORF72 repeat expansion in MNs. We also demonstrate that MN-specific dysregulation of AMPAR expression is also present in C9ORF72 patient post-mortem material. We therefore present multiple lines of evidence for the specific upregulation of GluA1 subunits in human mutant C9ORF72 MNs that could lead to a potential pathogenic excitotoxic mechanism in ALS.
+
+_Recommended citation: Selvaraj, B.T., Livesey, M.R., Zhao, C. et al. (2018). C9ORF72 repeat expansion causes vulnerability of motor neurons to Ca^2+^-permeable AMPA receptor-mediated excitotoxicity. Nature Communications 9(1), 347. https://doi.org/10.1038/s41467-017-02729-0._
