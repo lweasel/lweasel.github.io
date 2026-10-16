@@ -1,0 +1,10 @@
+---
+title: "Astrocytes regulate axonal mitochondrial transport deficits in C9ORF72 amyotrophic lateral sclerosis motor neurons"
+date: 2026-10-07
+---
+
+_[Published](https://www.nature.com/articles/s41593-026-02464-0) in Nature Neuroscience_
+
+Disrupted axonal transport and astrocyte dysfunction are implicated in amyotrophic lateral sclerosis (ALS). Here we show these processes are linked—human-induced pluripotent stem-cell-derived astrocytes carrying the C9ORF72 mutation disrupt mitochondrial axonal transport and mitochondrial function in cocultured motor neurons (MNs). Conversely, isogenic gene-corrected astrocytes or boosting astrocytic mitochondrial bioenergetics rescue axonal mitochondrial transport deficits in C9ORF72 MNs. Our results delineate a non-cell-autonomous role for astrocytes in regulating mitochondrial transport along axons in ALS models.
+
+_Recommended citation: Stavrou, M., Heffernan, Á.B., Carter, R.N. et al. Astrocytes regulate axonal mitochondrial transport deficits in C9ORF72 amyotrophic lateral sclerosis motor neurons. Nat Neurosci (2026). https://doi.org/10.1038/s41593-026-02464-0._
